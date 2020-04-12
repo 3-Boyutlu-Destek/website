@@ -9156,6 +9156,10 @@ header>.uk-sticky {
     padding:15px 15px;
     display: none;
 }
+.ss-detail-img{
+    max-width: 200px;
+    padding: 10px;
+}
 .ss-title span{
     position: absolute;
     right:20px;
