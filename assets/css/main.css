@@ -9201,3 +9201,13 @@ header>.uk-sticky {
     border-radius: 8px;
     color:#FFFFFF !important;
 }
+
+.aydinlatma-metni-baslik{
+    font-size: large;
+}
+table, td, th {
+  border: 1px solid black;
+  width: 600px;
+  text-align: center;
+}
+
